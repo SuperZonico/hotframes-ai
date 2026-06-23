@@ -10,7 +10,7 @@ Upscaling · Color Grading · Frame Interpolation · Noise Reduction · Film Gra
 
 **[→ Download HotFrames AI v1.0.0](https://github.com/SuperZonico/hotframes-ai/releases/latest)**
 
-Windows 11 · NVIDIA RTX 3060 or better · No Python required
+Windows 11 · NVIDIA RTX 3060 or better
 
 ---
 
@@ -58,8 +58,6 @@ The installer handles everything automatically — Python, FFmpeg, PyTorch CUDA.
 ## Trial
 
 HotFrames AI includes a 30-day free trial. No account required. Contact SuperZónico for full access after the trial.
-
----
 
 ---
 
