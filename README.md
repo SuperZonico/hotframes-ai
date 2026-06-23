@@ -61,10 +61,6 @@ HotFrames AI includes a 30-day free trial. No account required. Contact SuperZó
 
 ---
 
-## Contact
-
-superzonico.com
-
 ---
 
 © 2026 SuperZónico. All rights reserved.
